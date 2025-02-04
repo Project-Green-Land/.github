@@ -1,6 +1,6 @@
 ![Project-Green-Land](https://github.com/user-attachments/assets/e8243cce-ebbf-4e31-a6f4-1450b0e3d2b5)
 
-# GreenLand - Advanced Farming Powered by AI & ML
+# GreenLand - Powered by AI & ML
 
 <p align="justify">
 Welcome to <strong>GreenLand</strong>, an innovative farming-oriented platform powered by cutting-edge Artificial Intelligence (AI) and Machine Learning (ML) technologies. Our mission is to transform modern agriculture by providing farmers with smart, data-driven solutions for sustainable farming. GreenLand leverages the latest technological advancements to offer a comprehensive mobile application designed to enhance farm productivity, improve crop management, and ensure environmental sustainability.
