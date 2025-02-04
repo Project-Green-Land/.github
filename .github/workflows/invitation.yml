@@ -1,1 +1,32 @@
+name: Invitation Workflow
 
+on:
+  issues:
+    types: [opened, edited]  # Trigger when an issue is created or edited
+  push:
+    branches:
+      - main  # Trigger on pushes to the main branch
+    paths:
+      - '.github/workflows/invitation.yml'  # Only trigger if the workflow file is changed
+
+jobs:
+  process_issue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install @octokit/rest dotenv
+
+      - name: Process issue by title
+        run: |
+          node ./.github/scripts/process-existing-issues.js
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
