@@ -15,9 +15,7 @@ We invite developers, data scientists, agronomists, and technology enthusiasts t
 </p>
 
 ### Join Our Organization
-If you're interested in joining our organization, click the link below and fill out the form.
-
-[Join Organization](https://https://github.com/Project-Green-Land/CommunitySupport-/issues/new?assignees=&labels=invitation+request&template=join_organization.yml&title=Join%20Organization%20Request)
+If you're interested in joining our organization, click the link below and fill out the form. [Join Organization](https://https://github.com/Project-Green-Land/CommunitySupport-/issues/new?assignees=&labels=invitation+request&template=join_organization.yml&title=Join%20Organization%20Request)
 
 ## Contributing
 
