@@ -1,4 +1,4 @@
-![Project-Green-Land](https://github.com/user-attachments/assets/0e74300c-741b-49bd-bab5-46e22954a893)
+![Project-Green-Land](https://github.com/user-attachments/assets/e8243cce-ebbf-4e31-a6f4-1450b0e3d2b5)
 
 # GreenLand - Advanced Farming Powered by AI & ML
 
