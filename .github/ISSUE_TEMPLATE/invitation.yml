@@ -1,1 +1,40 @@
+name: Invitation Request to Join GitHub Community Organization
+description: Request an invitation to join the Magic-Academy GitHub Community Organization.
+labels:
+  - invitation-request
+
+fields:
+  - name: Username
+    description: Enter your GitHub username.
+    required: true
+    type: string
+  - name: Reason for Joining
+    description: Why would you like to join the GitHub Community Organization? (Optional)
+    required: false
+    type: string
+
+body:
+  - type: markdown
+    content: |
+      **Thank you for your interest in joining the Magic-Academy Community!**
+      
+      By opening this issue, you will be requesting an invitation to join the organization.
+      
+      Once the invitation is processed, you will be notified with further steps.
+
+    - type: input
+      id: username
+      label: GitHub Username
+      description: Please provide your GitHub username so we can send you an invitation.
+
+    - type: textarea
+      id: reason
+      label: Reason for Joining
+      description: Tell us why you would like to join the community. This is optional but helps us understand your interest better.
+
+    - type: checkbox
+      id: confirm
+      label: I agree to the terms of joining the Magic-Academy GitHub Community.
+      options:
+        - Yes
 
