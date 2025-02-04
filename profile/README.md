@@ -14,6 +14,11 @@ By integrating AI and ML technologies with modern farming practices, GreenLand a
 We invite developers, data scientists, agronomists, and technology enthusiasts to join us in building the future of farming. Together, we can innovate, collaborate, and create groundbreaking solutions that will reshape the global agricultural landscape.
 </p>
 
+### Join Our Organization
+If you're interested in joining our organization, click the link below and fill out the form.
+
+[Join Organization](https://https://github.com/Project-Green-Land/CommunitySupport-/issues/new?assignees=&labels=invitation+request&template=join_organization.yml&title=Join%20Organization%20Request)
+
 ## Contributing
 
 <p align="justify">
